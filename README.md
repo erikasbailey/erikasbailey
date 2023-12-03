@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @erikasbailey
-- 👀 I’m interested in software development, particularly in deep learning and computer vision.
-- 🌱 I’m currently reading for a degree in Electrical and Electronic Engineering at University of Malta.
+- 👀 I'm a data analyst reading for a Masters Degree in Artificial Intelligence at the University of Malta.
 - 💞️ I’m looking to collaborate on anything that interests me.
